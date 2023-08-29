@@ -122,7 +122,47 @@ Kaiwen Guo, Hao Zhou, **Ye Tian**, Wangqiu Zhou, Yusheng Ji, and Xiang-Yang Li.
 - Mudra: A Multi-Modal Smartwatch Interactive System with Hand Gesture Recognition and User Identification. IEEE International Conference on Computer Communications （INFOCOM), pp. 100-109. IEEE, 2022.
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IWQoS 2023</div><img src='images/paper2-1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
+**Mudra**,**[[PDF]](https://ieeexplore.ieee.org/abstract/document/9796879)**
+
+Kaiwen Guo, Hao Zhou, **Ye Tian**, Wangqiu Zhou, Yusheng Ji, and Xiang-Yang Li.
+
+<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- I collaborated with Kaiwen Guo and Wangqiu Zhou on a work that uses smartwatch to authenticate users and recognize gestures. It is based on multimodal information and combines the advantages of vision and IMU signaling. We carefully design a parallel attention multi-task model for different modals, and fuse classification results at the decision level with an adaptive weight adjustment algorithm. We implement a prototype of Mudra and extensive experiments demonstrate that Mudra can achieve good performance. This research was supervised by **[IEEE/ACM Fellow Prof. Xiang-Yang Li](IEEE/ACM Fellow Prof. Xiang-Yang Li)**, **[IEEE Fellow Prof. Yusheng Ji](https://scholar.google.com/citations?user=3EK_RaQAAAAJ&hl=en)**  and **[Prof. Hao Zhou](https://scholar.google.com/citations?user=JMfB4CIAAAAJ&hl=en)**, which is published in the top conference INFOCOM 2022.
+</div>
+</div>
+
+- Mudra: A Multi-Modal Smartwatch Interactive System with Hand Gesture Recognition and User Identification. IEEE International Conference on Computer Communications （INFOCOM), pp. 100-109. IEEE, 2022.
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IWQoS 2023</div><img src='images/paper2-1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Mudra**,**[[PDF]](https://ieeexplore.ieee.org/abstract/document/9796879)**
+
+Kaiwen Guo, Hao Zhou, **Ye Tian**, Wangqiu Zhou, Yusheng Ji, and Xiang-Yang Li.
+
+<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- I collaborated with Kaiwen Guo and Wangqiu Zhou on a work that uses smartwatch to authenticate users and recognize gestures. It is based on multimodal information and combines the advantages of vision and IMU signaling. We carefully design a parallel attention multi-task model for different modals, and fuse classification results at the decision level with an adaptive weight adjustment algorithm. We implement a prototype of Mudra and extensive experiments demonstrate that Mudra can achieve good performance. This research was supervised by **[IEEE/ACM Fellow Prof. Xiang-Yang Li](IEEE/ACM Fellow Prof. Xiang-Yang Li)**, **[IEEE Fellow Prof. Yusheng Ji](https://scholar.google.com/citations?user=3EK_RaQAAAAJ&hl=en)**  and **[Prof. Hao Zhou](https://scholar.google.com/citations?user=JMfB4CIAAAAJ&hl=en)**, which is published in the top conference INFOCOM 2022.
+</div>
+</div>
+
+- Mudra: A Multi-Modal Smartwatch Interactive System with Hand Gesture Recognition and User Identification. IEEE International Conference on Computer Communications （INFOCOM), pp. 100-109. IEEE, 2022.
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IWQoS 2023</div><img src='images/paper2-1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Mudra**,**[[PDF]](https://ieeexplore.ieee.org/abstract/document/9796879)**
+
+Kaiwen Guo, Hao Zhou, **Ye Tian**, Wangqiu Zhou, Yusheng Ji, and Xiang-Yang Li.
+
+<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- I collaborated with Kaiwen Guo and Wangqiu Zhou on a work that uses smartwatch to authenticate users and recognize gestures. It is based on multimodal information and combines the advantages of vision and IMU signaling. We carefully design a parallel attention multi-task model for different modals, and fuse classification results at the decision level with an adaptive weight adjustment algorithm. We implement a prototype of Mudra and extensive experiments demonstrate that Mudra can achieve good performance. This research was supervised by **[IEEE/ACM Fellow Prof. Xiang-Yang Li](IEEE/ACM Fellow Prof. Xiang-Yang Li)**, **[IEEE Fellow Prof. Yusheng Ji](https://scholar.google.com/citations?user=3EK_RaQAAAAJ&hl=en)**  and **[Prof. Hao Zhou](https://scholar.google.com/citations?user=JMfB4CIAAAAJ&hl=en)**, which is published in the top conference INFOCOM 2022.
+</div>
+</div>
+
+- Mudra: A Multi-Modal Smartwatch Interactive System with Hand Gesture Recognition and User Identification. IEEE International Conference on Computer Communications （INFOCOM), pp. 100-109. IEEE, 2022.
 
   
 # 💬 Invited Talks
