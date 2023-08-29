@@ -93,7 +93,7 @@ Besides study and research, I also like music, traveling, hiking, painting, etc.
 # 📝 Selected Publications
 [[Full List]](https://scholar.google.com/citations?hl=en&user=P3hRr2wAAAAJ)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IWQoS 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IWQoS 2023</div><img src='images/paper1-1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **BackLip**,[**PDF**](https://ieeexplore.ieee.org/abstract/document/10188767) 
@@ -107,23 +107,10 @@ Besides study and research, I also like music, traveling, hiking, painting, etc.
 
 - BackLip: Passphrase-Independent Lip-reading User Authentication with Backscatter Signals. IEEE/ACM 31th International Symposium on Quality of Service (IWQoS), pp. 1-10. IEEE, 2023.
 
-# 📝 Selected PublicationsXXX
 
-[[Full List]](https://scholar.google.com/citations?hl=en&user=P3hRr2wAAAAJ)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-#### **BackLip**
 
-**Ye Tian**, Hao Zhou, Haohua Du, Chenren Xu, Jiahui Hou, Dong Ren, Xiang-Yang Li.
-
-[**[PDF]**](https://ieeexplore.ieee.org/abstract/document/10188767) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-
-- Considering the limitations. 
-  </div>
-  </div>
-- BackLip: Passphrase-Independent Lip-reading User Authentication with Backscatter Signals. IEEE/ACM 31th International Symposium on Quality of Service (**IWQoS**), pp. 1-10. IEEE, 2023.
 
   
 # 💬 Invited Talks
