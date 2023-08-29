@@ -149,7 +149,7 @@ Kaiwen Guo, Hao Zhou, **Ye Tian**, Wangqiu Zhou, Yusheng Ji, and Xiang-Yang Li.
 
 - ZSLF: A new soft likelihood function based on Z-numbers and its application in expert decision system. IEEE Transactions on Fuzzy Systems 29, 8 (2020), 2283–2295.
 
-# ✌️ Services
+# 💡 Services
 
 #### Academic Services
 
