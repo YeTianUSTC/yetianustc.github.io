@@ -29,7 +29,7 @@ Besides study and research, I also like music, traveling, hiking, painting, etc.
 
 
 # 🔥 News
-- *2023.09*: &nbsp;🎉🎉 <font color="#dd0000">I am looking for a PhD position!</font><br />I am working towards becoming a qualified PhD candidate!
+- *2023.09*: &nbsp;🎉🎉 <font color="#dd0000">I am looking for a PhD position!</font> I am working towards becoming a qualified PhD candidate!
 - *2023.08*: &nbsp;🎉🎉Our paper has submitted to ***Mobicom 2024***, it is under review.
 - *2023.08*: &nbsp;🎉🎉Our two papers have submitted to ***INFOCOM 2024***, it is under review.
 - *2023.08*: &nbsp;🎉🎉The revised version of one of our papers has been submitted to ***UbiComp (ACM IMWUT) 2023***.
