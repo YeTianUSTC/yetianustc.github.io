@@ -96,21 +96,21 @@ Besides study and research, I also like music, traveling, hiking, painting, etc.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IWQoS 2023</div><img src='images/paper1-1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**BackLip**,[**[PDF]**](https://ieeexplore.ieee.org/abstract/document/10188767) 
+**1.BackLip**,[**[PDF]**](https://ieeexplore.ieee.org/abstract/document/10188767) 
 
 **Ye Tian**, Hao Zhou, Haohua Du, Chenren Xu, Jiahui Hou, Dong Ren, Xiang-Yang Li.
 
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
--User authentication is essential for threat defense and data protection. Existed authentication systems have some known limitations, such as spoofing attacks, privacy leakage, and user-unfriendliness. In this paper, we propose BackLip, a novel anti-spoofing authentication system based on lip reading. We employ Wi-Fi backscatter-based technology to recognize users lip reading due to its various advantages, e.g, privacy protection, low power consumption, and low cost. Our system is touch-free and passphrase-independent, making it user-friendly, especially for the elderly and disabled. Extensive experiments demonstrate that BackLip has an good accuracy and can maintain stability and robustness under different experimental settings. In June of this year, I reported this research in Orlando, USA and I am grateful to TPC chairs for inviting me to serve as a session chair. 
+-User authentication is essential for threat defense and data protection. Existed authentication systems have some known limitations, such as spoofing attacks, privacy leakage, and user-unfriendliness. In this paper, we propose BackLip, a novel anti-spoofing authentication system based on lip reading. We employ Wi-Fi backscatter-based technology to recognize users lip reading due to its various advantages, e.g, privacy protection, low power consumption, and low cost. Our system is touch-free and passphrase-independent, making it user-friendly. Extensive experiments demonstrate that BackLip has an good accuracy and can maintain stability and robustness under different experimental settings. In June of this year, I reported this research in Orlando, USA and I am grateful to TPC chairs for inviting me to serve as a session chair. 
 </div>
 </div>
 
 - BackLip: Passphrase-Independent Lip-reading User Authentication with Backscatter Signals. IEEE/ACM 31th International Symposium on Quality of Service (IWQoS), pp. 1-10. IEEE, 2023.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IWQoS 2023</div><img src='images/paper2-1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INFOCOM 2022</div><img src='images/paper2-1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Mudra**,**[[PDF]](https://ieeexplore.ieee.org/abstract/document/9796879)**
+**2.Mudra**,**[[PDF]](https://ieeexplore.ieee.org/abstract/document/9796879)**
 
 Kaiwen Guo, Hao Zhou, **Ye Tian**, Wangqiu Zhou, Yusheng Ji, and Xiang-Yang Li.
 
@@ -122,19 +122,20 @@ Kaiwen Guo, Hao Zhou, **Ye Tian**, Wangqiu Zhou, Yusheng Ji, and Xiang-Yang Li.
 - Mudra: A Multi-Modal Smartwatch Interactive System with Hand Gesture Recognition and User Identification. IEEE International Conference on Computer Communications （INFOCOM), pp. 100-109. IEEE, 2022.
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IWQoS 2023</div><img src='images/paper2-1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">APSC 2021</div><img src='images/paper3-1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Mudra**,**[[PDF]](https://ieeexplore.ieee.org/abstract/document/9796879)**
+**3.A novel information fusion mechanism**,**[[PDF]](https://www.sciencedirect.com/science/article/pii/S1568494621005792)**
 
-Kaiwen Guo, Hao Zhou, **Ye Tian**, Wangqiu Zhou, Yusheng Ji, and Xiang-Yang Li.
+**Ye Tian**, Xiangjun Mi, Huizi Cui, Pengdan Zhang, and Bingyi Kang. 
 
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- I collaborated with Kaiwen Guo and Wangqiu Zhou on a work that uses smartwatch to authenticate users and recognize gestures. It is based on multimodal information and combines the advantages of vision and IMU signaling. We carefully design a parallel attention multi-task model for different modals, and fuse classification results at the decision level with an adaptive weight adjustment algorithm. We implement a prototype of Mudra and extensive experiments demonstrate that Mudra can achieve good performance. This research was supervised by **[IEEE/ACM Fellow Prof. Xiang-Yang Li](IEEE/ACM Fellow Prof. Xiang-Yang Li)**, **[IEEE Fellow Prof. Yusheng Ji](https://scholar.google.com/citations?user=3EK_RaQAAAAJ&hl=en)**  and **[Prof. Hao Zhou](https://scholar.google.com/citations?user=JMfB4CIAAAAJ&hl=en)**, which is published in the top conference INFOCOM 2022.
+- In the information fusion process, how to effectively take care of the ambiguity and uncertainty of data is a fascinating problem. In this paper, we proposed a new information fusion method based on Dempster Shafer theory (DST) and K-means clustering and it established the reliability evaluation criterion based on Z-number. Comparison and discussion verify the rationality of the proposed method, which also illustrates the method has better robustness and sensitivity than existing methods, some critical issues in DST, e.g., conflict management, evidence stuck, are well investigated and overcome by the proposed method. Number examples and the application further shows the application potential of the proposed method in a data-driven intelligent system. This work has published in **Applied Soft Computing (IF 8.263)**, which is a top journals in this field.
 </div>
 </div>
 
-- Mudra: A Multi-Modal Smartwatch Interactive System with Hand Gesture Recognition and User Identification. IEEE International Conference on Computer Communications （INFOCOM), pp. 100-109. IEEE, 2022.
+- Using Z-number to measure the reliability of new information fusion method and its application in pattern recognition. Applied Soft Computing  111 (2021), 107658.
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IWQoS 2023</div><img src='images/paper2-1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
