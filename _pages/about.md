@@ -74,21 +74,6 @@ Besides study and research, I also like music, traveling, hiking, painting, etc.
 - 2016.02   National Youth Science and Technology Innovation Competition - **Provincial Outstanding Creativity Award** / Top 10 **Creative Stars** in the city  
 
 
-# 📝 Publications XXXX
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 📝 Selected Publications
 [[Full List]](https://scholar.google.com/citations?hl=en&user=P3hRr2wAAAAJ)
@@ -140,7 +125,7 @@ Kaiwen Guo, Hao Zhou, **Ye Tian**, Wangqiu Zhou, Yusheng Ji, and Xiang-Yang Li.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IWQoS 2023</div><img src='images/paper5-1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**4.Z^E-number**,**[[PDF]](https://www.sciencedirect.com/science/article/pii/S0952197621000725)**
+**4.A multi-attribute group decision-making method**,**[[PDF]](https://www.sciencedirect.com/science/article/pii/S0952197621000725)**
 
 **Ye Tian**, Xiangjun Mi, Yunpeng Ji, and Bingyi Kang.
 
