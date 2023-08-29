@@ -90,7 +90,7 @@ Besides study and research, I also like music, traveling, hiking, painting, etc.
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-  # 📝 Selected Publications
+# 📝 Selected Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -100,13 +100,13 @@ BackLip
 **Ye Tian**, Hao Zhou, Haohua Du, Chenren Xu, Jiahui Hou, Dong Ren, Xiang-Yang Li.
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Considering the limitations of some current authentication mechanisms, such as the privacy issues caused by face recognition and voiceprint recognition. We utilize wireless technical means to authenticate users' identities through their silent lip-reading. As it combines the user's physical and behavioral characteristics, it is difficult to imitate and can better resist replay attacks. Moreover, it protects the user's sensitive image and voice data. . 
 </div>
 </div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-# 📝 Selected Publications
+# 📝 Selected PublicationsXXX
 
 [[Full List]](https://scholar.google.com/citations?hl=en&user=P3hRr2wAAAAJ)
 
