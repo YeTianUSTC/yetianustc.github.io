@@ -107,7 +107,7 @@ Besides study and research, I also like music, traveling, hiking, painting, etc.
 
 - BackLip: Passphrase-Independent Lip-reading User Authentication with Backscatter Signals. IEEE/ACM 31th International Symposium on Quality of Service (IWQoS), pp. 1-10. IEEE, 2023.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IWQoS 2023</div><img src='images/paper1-1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IWQoS 2023</div><img src='images/paper2-1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Mudra**,**[[PDF]](https://ieeexplore.ieee.org/abstract/document/9796879)**
