@@ -10,7 +10,7 @@ main:
     url: "/#-educations"
 
   - title: "Publications"
-    url: "/#-publications"
+    url: "/#selected-publications"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
@@ -19,4 +19,4 @@ main:
     url: "/#-services"
 
   - title: "Contact"
-    url: "/#-contact-me!"
+    url: "/#-contact-me"
