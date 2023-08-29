@@ -137,24 +137,24 @@ Kaiwen Guo, Hao Zhou, **Ye Tian**, Wangqiu Zhou, Yusheng Ji, and Xiang-Yang Li.
 - Using Z-number to measure the reliability of new information fusion method and its application in pattern recognition. Applied Soft Computing  111 (2021), 107658.
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IWQoS 2023</div><img src='images/paper2-1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IWQoS 2023</div><img src='images/paper5-1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Mudra**,**[[PDF]](https://ieeexplore.ieee.org/abstract/document/9796879)**
+**4.Z^E-number**,**[[PDF]](https://www.sciencedirect.com/science/article/pii/S0952197621000725)**
 
-Kaiwen Guo, Hao Zhou, **Ye Tian**, Wangqiu Zhou, Yusheng Ji, and Xiang-Yang Li.
+**Ye Tian**, Xiangjun Mi, Yunpeng Ji, and Bingyi Kang.
 
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- I collaborated with Kaiwen Guo and Wangqiu Zhou on a work that uses smartwatch to authenticate users and recognize gestures. It is based on multimodal information and combines the advantages of vision and IMU signaling. We carefully design a parallel attention multi-task model for different modals, and fuse classification results at the decision level with an adaptive weight adjustment algorithm. We implement a prototype of Mudra and extensive experiments demonstrate that Mudra can achieve good performance. This research was supervised by **[IEEE/ACM Fellow Prof. Xiang-Yang Li](IEEE/ACM Fellow Prof. Xiang-Yang Li)**, **[IEEE Fellow Prof. Yusheng Ji](https://scholar.google.com/citations?user=3EK_RaQAAAAJ&hl=en)**  and **[Prof. Hao Zhou](https://scholar.google.com/citations?user=JMfB4CIAAAAJ&hl=en)**, which is published in the top conference INFOCOM 2022.
+- Prof.Zadeh proposed the concept of the Z-numbers, this more anthropomorphic fuzzy set representation framework describes the simultaneous existence of probability measures and probability measures of random variables, and it is regarded as a very powerful tool for modeling uncertain information. However, the representation of Z-numbers still has limitations. Therefore, we propose a new extended Z-numbers, Z = ((A ,B ),E), E is the credibility. As the objective reliability of (A , B), it restricts the original Z-numbers. At the same time, the conversion function between them is also defined. Based on this, we proposed a multi-attribute group decision-making (MAGDM) method considering the attitudes of decision-makers. Application examples show the rationality and effectiveness of the proposed methodology, and the superiority of this method is further illustrated through comparison and discussion with other methods. This work has published in **Engineering Applications of Artificial Intelligence** (If 7.802).
 </div>
 </div>
 
-- Mudra: A Multi-Modal Smartwatch Interactive System with Hand Gesture Recognition and User Identification. IEEE International Conference on Computer Communications （INFOCOM), pp. 100-109. IEEE, 2022.
+- Z^E-numbers: a new extended Z-numbers and its application on multiple attribute group decision making. Engineering Applications of Artificial Intelligence  101 (2021), 104225.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IWQoS 2023</div><img src='images/paper2-1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IWQoS 2023</div><img src='images/paper4-1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Mudra**,**[[PDF]](https://ieeexplore.ieee.org/abstract/document/9796879)**
+**5. ZSLF**,**[[PDF]](https://ieeexplore.ieee.org/abstract/document/9099608)**
 
 Kaiwen Guo, Hao Zhou, **Ye Tian**, Wangqiu Zhou, Yusheng Ji, and Xiang-Yang Li.
 
