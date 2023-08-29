@@ -46,32 +46,32 @@ Besides study and research, I also like music, traveling, hiking, painting, etc.
 
 #### Selected Scholarships
 
-- *2022.12*    **Huawei Scholarship**
-- 2021.10    **Academic First-class scholarship**
-- 2020.12    **Lixin Tang Scholarship**  (Only **60** students were be selected from the whole university)
-- 2020.10/2019.10/2018.10    **National Encouragement Scholarship**
-- 2020.10/2019.10/2018.10     **Department First-class Scholarship**
+- *2022.12*,    **Huawei Scholarship**
+- *2021.10*,    **Academic First-class scholarship**
+- *2020.12*,    **Lixin Tang Scholarship**  (Only **60** students were be selected from the whole university)
+- *2020.10/2019.10/2018.10*,    **National Encouragement Scholarship**
+- *2020.10/2019.10/2018.10*,    **Department First-class Scholarship**
 
 #### Selected Honors
 
-- 2022.12    **Outstanding Student Leader** in Graduate Student Union
-- 2021.08    **Outstanding Intern** During the Internship in USTC-Deqing Alpha Innovation Institute
-- 2021.06    **Outstanding Graduates** of the Whole  University  
-- 2020.12    One of the **100 Campus Stars/ Top Ten** Scientific **Research Stars**  
-- 2020.12/2019.12/2018.12   **Outstanding  Students** of the whole University 
-- 2020.12/2019.12/2018.12   **Outstanding Student Leader** of the whole University
-- 2020.12    **Outstanding Representative** of Innovation and Entrepreneurship in the whole University
-- 2018.12    **Outstanding Representative** of Social Practice in the whole University
+- *2022.12*,    **Outstanding Student Leader** in Graduate Student Union
+- *2021.08*,    **Outstanding Intern** During the Internship in USTC-Deqing Alpha Innovation Institute
+- *2021.06*,    **Outstanding Graduates** of the Whole  University  
+- *2020.12*,    One of the **100 Campus Stars/ Top Ten** Scientific **Research Stars**  
+- *2020.12/2019.12/2018.12*,   **Outstanding  Students** of the whole University 
+- *2020.12/2019.12/2018.12*,   **Outstanding Student Leader** of the whole University
+- *2020.12*,    **Outstanding Representative** of Innovation and Entrepreneurship in the whole University
+- *2018.12*,    **Outstanding Representative** of Social Practice in the whole University
 
 #### Selected Awards
 
-- 2021.05    International Mathematical Contest in Modeling  -**Honorable Mention Award**  
-- 2020.06    Forestry Innovation and Entrepreneurship Competition - **National Semi-Finalist Award**
-- 2019.06    College Students Three Innovation Challenge - **Provincial Second Prize** 
-- 2019.05    “Internet +" College Student Competition - **School-level Gold Award** 
-- 2019.05    Challenge Cup Science and Technology Works of College Students - **School-level Third Prize**
-- 2018.05    College Students Innovation and Entrepreneurship Forum - **School-level Third Prize**
-- 2016.02   National Youth Science and Technology Innovation Competition - **Provincial Outstanding Creativity Award** / Top 10 **Creative Stars** in the city  
+- *2021.05*,   International Mathematical Contest in Modeling  -**Honorable Mention Award**  
+- *2020.06*,   Forestry Innovation and Entrepreneurship Competition - **National Semi-Finalist Award**
+- *2019.06*,   College Students Three Innovation Challenge - **Provincial Second Prize** 
+- *2019.05*,   “Internet +" College Student Competition - **School-level Gold Award** 
+- *2019.05*,   Challenge Cup Science and Technology Works of College Students - **School-level Third Prize**
+- *2018.05*,   College Students Innovation and Entrepreneurship Forum - **School-level Third Prize**
+- *2016.02*,   National Youth Science and Technology Innovation Competition - **Provincial Outstanding Creativity Award** / Top 10 **Creative Stars** in the city  
 
 
 
@@ -178,11 +178,9 @@ Kaiwen Guo, Hao Zhou, **Ye Tian**, Wangqiu Zhou, Yusheng Ji, and Xiang-Yang Li.
 - *2018.08*,  Excellent Rural Investigation Team 
 - *2018.07*,  Summer Vacation Social Practice Activities for College Students  
 
-  ​
+
 # 💻 Contact Me!
 
-#### Email:
-
-- **<u>tianyecs@mail.ustc.edu.cn</u>**, **<u>tianyenwsuaf@163.com</u>**
+#### Email: **<u>tianyecs@mail.ustc.edu.cn</u>**, **<u>tianyenwsuaf@163.com</u>**
 
 #### Present Address: **High-tech Campus of USTC, Hefei, Anhui, China.**
