@@ -110,16 +110,16 @@ Besides study and research, I also like music, traveling, hiking, painting, etc.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IWQoS 2023</div><img src='images/paper1-1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**BackLip**,[**PDF**](https://ieeexplore.ieee.org/abstract/document/10188767) 
+**Mudra**,**[[PDF]](https://ieeexplore.ieee.org/abstract/document/9796879)**
 
-**Ye Tian**, Hao Zhou, Haohua Du, Chenren Xu, Jiahui Hou, Dong Ren, Xiang-Yang Li.
+ Kaiwen Guo, Hao Zhou, **Ye Tian**, Wangqiu Zhou, Yusheng Ji, and Xiang-Yang Li.
 
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Considering the limitations of some current authentication mechanisms, such as the privacy issues caused by face recognition and voiceprint recognition. We utilize wireless technical means to authenticate users' identities through their silent lip-reading. As it combines the user's physical and behavioral characteristics, it is difficult to imitate and can better resist replay attacks. Moreover, it protects the user's sensitive image and voice data. In June of this year, I reported this research in Orlando, USA and I am grateful to TPC chairs for inviting me to serve as a session chair. 
+- I collaborated with Kaiwen Guo and Wangqiu Zhou on a work that uses smartwatch to authenticate users and recognize gestures. It is based on multimodal information and combines the advantages of vision and IMU signaling. This research was supervised by **[IEEE/ACM Fellow Prof. Xiang-Yang Li](IEEE/ACM Fellow Prof. Xiang-Yang Li)**, **[IEEE Fellow Prof. Yusheng Ji](https://scholar.google.com/citations?user=3EK_RaQAAAAJ&hl=en)**  and **[Prof. Hao Zhou](https://scholar.google.com/citations?user=JMfB4CIAAAAJ&hl=en)**, which is published in the top conference INFOCOM 2022.
 </div>
 </div>
 
-- BackLip: Passphrase-Independent Lip-reading User Authentication with Backscatter Signals. IEEE/ACM 31th International Symposium on Quality of Service (IWQoS), pp. 1-10. IEEE, 2023.
+- Mudra: A Multi-Modal Smartwatch Interactive System with Hand Gesture Recognition and User Identification. IEEE International Conference on Computer Communications （INFOCOM), pp. 100-109. IEEE, 2022.
 
 
 
