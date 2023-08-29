@@ -28,8 +28,6 @@ Besides study and research, I also like music, traveling, hiking, painting, etc.
 
 
 
-
-
 # 🔥 News
 - *2023.09*: &nbsp;🎉🎉 <font color="#dd0000">I am looking for a PhD position!</font><br /> I am working towards becoming a qualified PhD candidate!
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
