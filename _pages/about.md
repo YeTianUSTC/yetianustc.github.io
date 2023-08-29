@@ -176,8 +176,8 @@ Kaiwen Guo, Hao Zhou, **Ye Tian**, Wangqiu Zhou, Yusheng Ji, and Xiang-Yang Li.
 - *2018.08*,  Excellent Rural Investigation Team 
 - *2018.07*,  Summer Vacation Social Practice Activities for College Students  
 
-# 💻 Contact Me!
+# 💻 Contact Me
 
-#### Email: **<u>tianyecs@mail.ustc.edu.cn</u>**, **<u>tianyenwsuaf@163.com</u>**
+#### Email: <u>tianyecs@mail.ustc.edu.cn</u>**, **<u>tianyenwsuaf@163.com</u>
 
-#### Present Address: **High-tech Campus of USTC, Hefei, Anhui, China.**
+#### Present Address: High-tech Campus of USTC, Hefei, Anhui, China.
