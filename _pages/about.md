@@ -45,14 +45,16 @@ Besides study and research, I also like music, traveling, hiking, painting, etc.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IWQoS 2023</div></div></div>
 <div class='paper-box-text' markdown="1">
 
-BackLip: Passphrase-Independent Lip-reading User Authentication with Backscatter Signals
+##### BackLip
 
-Ye Tian, Hao Zhou, Haohua Du, Chenren Xu, Jiahui Hou, Dong Ren, Xiang-Yang Li.
+**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+
+[[**PDF**]](https://ieeexplore.ieee.org/abstract/document/10188767) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 - Considering the limitations of some current authentication mechanisms, such as the privacy issues caused by face recognition and voiceprint recognition. We utilize wireless technical means to authenticate users' identities through their silent lip-reading. As it combines the user's physical and behavioral characteristics, it is difficult to imitate and can better resist replay attacks. Moreover, it protects the user's sensitive image and voice data.
   </div>
   </div>
-- BackLip: Passphrase-Independent Lip-reading User Authentication with Backscatter Signals. IEEE/ACM 31th International Symposium on Quality of Service (IWQoS), pp. 1-10. IEEE, 2023.
+- BackLip: Passphrase-Independent Lip-reading User Authentication with Backscatter Signals. IEEE/ACM 31th International Symposium on Quality of Service (**IWQoS**), pp. 1-10. IEEE, 2023.
 
 
 # 🎖 Honors and Awards
