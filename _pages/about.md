@@ -92,10 +92,10 @@ Besides study and research, I also like music, traveling, hiking, painting, etc.
 
 # 📝 Selected Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IWQoS 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-BackLip
+**BackLip**
 
 **Ye Tian**, Hao Zhou, Haohua Du, Chenren Xu, Jiahui Hou, Dong Ren, Xiang-Yang Li.
 
