@@ -26,6 +26,9 @@ During the graduate period, my study was mainly carried out under the guidance o
 
 Besides study and research, I also like music, traveling, hiking, painting, etc. A lot of my friends like to play with me, they think I am a “happy maker”, haha~ Anyway, if you wish to communicate with me, please feel free to email me! (<u>tianyecs@mail.ustc.edu.cn</u>, <u>tianyenwsuaf@163.com</u>) I'm happy to discuss interesting things with everyone!
 
+# 📖 Educations
+- *2021.09 - now*,  **GPA 3.40/4.3, M.S. ** (Advisor: [***IEEE/ACM Fellow*** **Prof. Xiang-Yang Li**](https://scholar.google.com/citations?user=JURtNb0AAAAJ&hl=en&oi=ao))  School of Computer Science and Technology, University of Science and Technology of China, Anhui.  
+- *2017.08 - 2021.06*, **GPA 3.51/4.0, B.E.**  (Advisor: **[Prof. Yong Deng](https://scholar.google.com/citations?user=Zuhod6sAAAAJ&hl=en&oi=ao)** and **[Prof. Binyi Kang](https://scholar.google.com/citations?user=VIEDOvoAAAAJ&hl=en)**) College of Information Engineering, Northwest Agriculture and Forestry University, Shaanxi.
 
 
 # 🔥 News
@@ -57,9 +60,6 @@ Besides study and research, I also like music, traveling, hiking, painting, etc.
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
