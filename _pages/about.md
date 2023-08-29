@@ -42,7 +42,7 @@ Besides study and research, I also like music, traveling, hiking, painting, etc.
 - *2017.08 - 2021.06*, **GPA 3.51/4.0, B.E.**  (Advisor: **[Prof. Yong Deng](https://scholar.google.com/citations?user=Zuhod6sAAAAJ&hl=en&oi=ao)** and **[Prof. Binyi Kang](https://scholar.google.com/citations?user=VIEDOvoAAAAJ&hl=en)**) College of Information Engineering, Northwest Agriculture and Forestry University, Shaanxi.
 
  
-# 🎖 Honors and Awards
+# 🏆 Honors and Awards
 
 #### Selected Scholarships
 
@@ -152,7 +152,7 @@ Kaiwen Guo, Hao Zhou, **Ye Tian**, Wangqiu Zhou, Yusheng Ji, and Xiang-Yang Li.
 
 
   
-# 💬 Services
+# ✌️ Services
 
 #### Academic Services
 
@@ -183,9 +183,6 @@ Kaiwen Guo, Hao Zhou, **Ye Tian**, Wangqiu Zhou, Yusheng Ji, and Xiang-Yang Li.
 
 #### Email:
 
-- **<u>tianyecs@mail.ustc.edu.cn</u>**
-- **<u>tianyenwsuaf@163.com</u>**
+- **<u>tianyecs@mail.ustc.edu.cn</u>**, **<u>tianyenwsuaf@163.com</u>**
 
-#### Present Address: 
-
-**High-tech Campus of USTC, Hefei, Anhui, China.**
+#### Present Address: **High-tech Campus of USTC, Hefei, Anhui, China.**
