@@ -74,7 +74,6 @@ Besides study and research, I also like music, traveling, hiking, painting, etc.
 - *2016.02*,   National Youth Science and Technology Innovation Competition - **Provincial Outstanding Creativity Award** / Top 10 **Creative Stars** in the city  
 
 
-
 # 📝 Selected Publications
 [[Full List]](https://scholar.google.com/citations?hl=en&user=P3hRr2wAAAAJ)
 
@@ -151,7 +150,6 @@ Kaiwen Guo, Hao Zhou, **Ye Tian**, Wangqiu Zhou, Yusheng Ji, and Xiang-Yang Li.
 - ZSLF: A new soft likelihood function based on Z-numbers and its application in expert decision system. IEEE Transactions on Fuzzy Systems 29, 8 (2020), 2283–2295.
 
 
-  
 # ✌️ Services
 
 #### Academic Services
@@ -177,7 +175,6 @@ Kaiwen Guo, Hao Zhou, **Ye Tian**, Wangqiu Zhou, Yusheng Ji, and Xiang-Yang Li.
 - *2019.05*, Yangling International Marathon Voluntee  
 - *2018.08*,  Excellent Rural Investigation Team 
 - *2018.07*,  Summer Vacation Social Practice Activities for College Students  
-
 
 # 💻 Contact Me!
 
