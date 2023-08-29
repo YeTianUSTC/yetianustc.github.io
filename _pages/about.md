@@ -103,7 +103,7 @@ Besides study and research, I also like music, traveling, hiking, painting, etc.
 
 [**[PDF]**](https://ieeexplore.ieee.org/abstract/document/10188767) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
-- Considering the limitations of some current authentication mechanisms, such as the privacy issues caused by face recognition and voiceprint recognition. We utilize wireless technical means to authenticate users' identities through their silent lip-reading. As it combines the user's physical and behavioral characteristics, it is difficult to imitate and can better resist replay attacks. Moreover, it protects the user's sensitive image and voice data. 
+- Considering the limitations. 
   </div>
   </div>
 - BackLip: Passphrase-Independent Lip-reading User Authentication with Backscatter Signals. IEEE/ACM 31th International Symposium on Quality of Service (**IWQoS**), pp. 1-10. IEEE, 2023.
