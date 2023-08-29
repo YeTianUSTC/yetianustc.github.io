@@ -61,13 +61,34 @@ Besides study and research, I also like music, traveling, hiking, painting, etc.
 
 # 🎖 Honors and Awards
 
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+#### Selected Scholarships
 
-# 📖 Educations
+- *2022.12*    **Huawei Scholarship**
+- 2021.10    **Academic First-class scholarship**
+- 2020.12    **Lixin Tang Scholarship**  (Only **60** students were be selected from the whole university)
+- 2020.10/2019.10/2018.10    **National Encouragement Scholarship**
+- 2020.10/2019.10/2018.10     **Department First-class Scholarship**
 
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+#### Selected Honors
+
+- 2022.12    **Outstanding Student Leader** in Graduate Student Union
+- 2021.08    **Outstanding Intern** During the Internship in USTC-Deqing Alpha Innovation Institute
+- 2021.06    **Outstanding Graduates** of the Whole  University  
+- 2020.12    One of the **100 Campus Stars/ Top Ten** Scientific **Research Stars**  
+- 2020.12/2019.12/2018.12   **Outstanding  Students** of the whole University 
+- 2020.12/2019.12/2018.12   **Outstanding Student Leader** of the whole University
+- 2020.12    **Outstanding Representative** of Innovation and Entrepreneurship in the whole University
+- 2018.12    **Outstanding Representative** of Social Practice in the whole University
+
+#### Selected Awards
+
+- 2021.05    International Mathematical Contest in Modeling  -**Honorable Mention Award**  
+- 2020.06    Forestry Innovation and Entrepreneurship Competition - **National Semi-Finalist Award**
+- 2019.06    College Students Three Innovation Challenge - **Provincial Second Prize** 
+- 2019.05    “Internet +" College Student Competition - **School-level Gold Award** 
+- 2019.05    Challenge Cup Science and Technology Works of College Students - **School-level Third Prize**
+- 2018.05    College Students Innovation and Entrepreneurship Forum - **School-level Third Prize**
+- 2016.02   National Youth Science and Technology Innovation Competition - **Provincial Outstanding Creativity Award** / Top 10 **Creative Stars** in the city  
 
 # 💬 Invited Talks
 
