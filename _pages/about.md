@@ -156,14 +156,15 @@ Kaiwen Guo, Hao Zhou, **Ye Tian**, Wangqiu Zhou, Yusheng Ji, and Xiang-Yang Li.
 
 **5. ZSLF**,**[[PDF]](https://ieeexplore.ieee.org/abstract/document/9099608)**
 
-Kaiwen Guo, Hao Zhou, **Ye Tian**, Wangqiu Zhou, Yusheng Ji, and Xiang-Yang Li.
+**Ye Tian**, Lili Liu, Xiangjun Mi, and Bingyi Kang.
 
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- I collaborated with Kaiwen Guo and Wangqiu Zhou on a work that uses smartwatch to authenticate users and recognize gestures. It is based on multimodal information and combines the advantages of vision and IMU signaling. We carefully design a parallel attention multi-task model for different modals, and fuse classification results at the decision level with an adaptive weight adjustment algorithm. We implement a prototype of Mudra and extensive experiments demonstrate that Mudra can achieve good performance. This research was supervised by **[IEEE/ACM Fellow Prof. Xiang-Yang Li](IEEE/ACM Fellow Prof. Xiang-Yang Li)**, **[IEEE Fellow Prof. Yusheng Ji](https://scholar.google.com/citations?user=3EK_RaQAAAAJ&hl=en)**  and **[Prof. Hao Zhou](https://scholar.google.com/citations?user=JMfB4CIAAAAJ&hl=en)**, which is published in the top conference INFOCOM 2022.
+- Decision making is based on information, but information can be unreliable. We mainly consider how to make optimal decisions based on uncertain data. In this paper, we proposed a soft likelihood function based on a Z-number, which was more robust and sensibility to handle the decision problem. It provided a theoretical method for the expert system to effectively deal with the ambiguity and unreliability of information. Then, we constructed an expert decision system according to the proposed method. The application examples showed the effectiveness and rationality of the method. Moreover, the decision-making system had introduced attitude characteristics to determine the weight vector of the OWA synthesis so that the final result of the decision-making system takes into account the attitude of the decision maker. This study has published in **IEEE Transactions on Fuzzy Systems (IF 12.253)**, which is a top journals in this field.
 </div>
 </div>
 
-- Mudra: A Multi-Modal Smartwatch Interactive System with Hand Gesture Recognition and User Identification. IEEE International Conference on Computer Communications （INFOCOM), pp. 100-109. IEEE, 2022.
+- ZSLF: A new soft likelihood function based on Z-numbers and its application in expert decision system. IEEE Transactions on Fuzzy Systems 29, 8 (2020), 2283–2295.
+
 
   
 # 💬 Invited Talks
