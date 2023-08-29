@@ -122,7 +122,7 @@ Kaiwen Guo, Hao Zhou, **Ye Tian**, Wangqiu Zhou, Yusheng Ji, and Xiang-Yang Li.
 - Using Z-number to measure the reliability of new information fusion method and its application in pattern recognition. Applied Soft Computing  111 (2021), 107658.
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IWQoS 2023</div><img src='images/paper4-1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EAAI 2021</div><img src='images/paper4-1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **4.A multi-attribute group decision-making method**,**[[PDF]](https://www.sciencedirect.com/science/article/pii/S0952197621000725)**
@@ -136,7 +136,7 @@ Kaiwen Guo, Hao Zhou, **Ye Tian**, Wangqiu Zhou, Yusheng Ji, and Xiang-Yang Li.
 
 - Z^E-numbers: a new extended Z-numbers and its application on multiple attribute group decision making. Engineering Applications of Artificial Intelligence  101 (2021), 104225.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IWQoS 2023</div><img src='images/paper5-1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TFS 2020</div><img src='images/paper5-1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **5. ZSLF**,**[[PDF]](https://ieeexplore.ieee.org/abstract/document/9099608)**
