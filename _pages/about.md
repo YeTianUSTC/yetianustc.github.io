@@ -39,7 +39,7 @@ Besides study and research, I also like music, traveling, hiking, painting, etc.
 # 📖 Educations
 
 - *2021.09 - now*,  **GPA 3.40/4.3, M.S.** (Advisor: [***IEEE/ACM Fellow*** **Prof. Xiang-Yang Li**](https://scholar.google.com/citations?user=JURtNb0AAAAJ&hl=en&oi=ao))  School of Computer Science and Technology, University of Science and Technology of China, Anhui.  
-- *2017.08 - 2021.06*, **GPA 3.51/4.0, B.E.**  (Advisor: **[Prof. Yong Deng](https://scholar.google.com/citations?user=Zuhod6sAAAAJ&hl=en&oi=ao)** and **[Prof. Binyi Kang](https://scholar.google.com/citations?user=VIEDOvoAAAAJ&hl=en)**) College of Information Engineering, Northwest Agriculture and Forestry University, Shaanxi.
+- *2017.08 - 2021.06*, **GPA 3.51/4.0, B.E.**  (Advisors: **[Prof. Yong Deng](https://scholar.google.com/citations?user=Zuhod6sAAAAJ&hl=en&oi=ao)** and **[Prof. Bingyi Kang](https://scholar.google.com/citations?user=VIEDOvoAAAAJ&hl=en)**) College of Information Engineering, Northwest Agriculture and Forestry University, Shaanxi.
 
  
 # 🏆 Honors and Awards
