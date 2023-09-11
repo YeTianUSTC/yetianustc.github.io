@@ -29,12 +29,12 @@ Besides study and research, I also like music, traveling, hiking, painting, etc.
 # 🔥 News
 
 - *2023.09*: &nbsp;🎉🎉 <font color="#dd0000">I am looking for a PhD position! I am working towards becoming a qualified PhD candidate!</font><br />
-- *2023.09*: &nbsp;🎉🎉The **revised version** of our paper has been submitted to ***ESWA (Expert Systems with Applications) 2023***.
-- *2023.08*: &nbsp;🎉🎉Our paper has submitted to ***Mobicom 2024***, it is under review.
-- *2023.08*: &nbsp;🎉🎉Our two papers have submitted to ***INFOCOM 2024***, it is under review.
-- *2023.08*: &nbsp;🎉🎉The **revised version** of our paper has been submitted to ***UbiComp (ACM IMWUT) 2023***.
-- *2023.06*: &nbsp;🎉🎉I traveled to Orlando, USA to participate in ***IEEE/ACM IWQoS 2023***. I reported our research "**BackLip - IWQoS2023**", and I am very honored to be invited by TPC chairs to serve as a **session chair**.
-- *2023.05*: &nbsp;🎉🎉Our paper has submitted to ***UbiComp (ACM IMWUT) 2023***, it is under review.
+- *2023.09*: &nbsp;🎉🎉 The **revised version** of our paper has been submitted to ***ESWA (Expert Systems with Applications) 2023***.
+- *2023.08*: &nbsp;🎉🎉 Our paper has submitted to ***Mobicom 2024***, it is under review.
+- *2023.08*: &nbsp;🎉🎉 Our two papers have submitted to ***INFOCOM 2024***, it is under review.
+- *2023.08*: &nbsp;🎉🎉 The **revised version** of our paper has been submitted to ***UbiComp (ACM IMWUT) 2023***.
+- *2023.06*: &nbsp;🎉🎉 I traveled to Orlando, USA to participate in ***IEEE/ACM IWQoS 2023***. I reported our research "**BackLip - IWQoS2023**", and I am very honored to be invited by TPC chairs to serve as a **session chair**.
+- *2023.05*: &nbsp;🎉🎉 Our paper has submitted to ***UbiComp (ACM IMWUT) 2023***, it is under review.
 
   
 # 📖 Educations
