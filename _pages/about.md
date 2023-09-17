@@ -52,7 +52,7 @@ Besides study and research, I also like music, traveling, hiking, painting, etc.
 
 - *2022.12*,    **Huawei Scholarship**
 - *2021.10*,    **Academic First-class scholarship**
-- *2020.12*,    **Lixin Tang Scholarship**  (Only **60** students were be selected from the whole university)
+- *2020.12*,    **Lixin Tang Scholarship**  (**Top 1%**)
 - *2020.10/2019.10/2018.10*,    **National Encouragement Scholarship**
 - *2020.10/2019.10/2018.10*,    **Department First-class Scholarship**
 
@@ -89,7 +89,7 @@ Besides study and research, I also like music, traveling, hiking, painting, etc.
 **Ye Tian**, Hao Zhou, Haohua Du, Chenren Xu, Jiahui Hou, Dong Ren, Xiang-Yang Li.
 
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
--User authentication is essential for threat defense and data protection. Existed authentication systems have some known limitations, such as spoofing attacks, privacy leakage, and user-unfriendliness. In this paper, we propose BackLip, a novel anti-spoofing authentication system based on lip reading. We employ Wi-Fi backscatter-based technology to recognize users lip reading due to its various advantages, e.g, privacy protection, low power consumption, and low cost. Our system is touch-free and passphrase-independent, making it user-friendly. Extensive experiments demonstrate that BackLip has an good accuracy and can maintain stability and robustness under different experimental settings. In June of this year, I reported this research in <u>Orlando, USA</u> and I am grateful to TPC chairs for inviting me to serve as a **session chair**. 
+- User authentication is essential for threat defense and data protection. Existed authentication systems have some known limitations, such as spoofing attacks, privacy leakage, and user-unfriendliness. In this paper, we propose BackLip, a novel anti-spoofing authentication system based on lip reading. We employ Wi-Fi backscatter-based technology to recognize users lip reading due to its various advantages, e.g, privacy protection, low power consumption, and low cost. Our system is touch-free and passphrase-independent, making it user-friendly. Extensive experiments demonstrate that BackLip has an good accuracy and can maintain stability and robustness under different experimental settings. In June of this year, I reported this research in <u>Orlando, USA</u> and I am grateful to TPC chairs for inviting me to serve as a **session chair**. 
 </div>
 </div>
 
