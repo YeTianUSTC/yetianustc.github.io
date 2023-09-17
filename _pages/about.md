@@ -27,7 +27,7 @@ Recently, we designed a lip-reading-based authentication system (**BackLip**, **
 During my time at the university, I was a member of the laboratory co-led by **[Prof. Yong Deng](https://scholar.google.com/citations?user=Zuhod6sAAAAJ&hl=en&oi=ao)** and **[Prof. Bingyi Kang](https://scholar.google.com/citations?user=VIEDOvoAAAAJ&hl=en)**. We mainly focus on human-centered computing, especially in making decisions in uncertain environments. Under their guidance, I have achieved many exciting results. They were published in the top journals in the field, including **IEEE Transactions on Fuzzy Systems**, **Applied Soft Computing**, and so on. I am very happy that these works have received a lot of attention and praise from other peers, including [the member of the Royal Canadian Academy of Sciences and ***IEEE Life Fellow*** **Prof. Witold Pedrycz**](https://scholar.google.com/citations?user=0nrcfZwAAAAJ&hl=en&oi=ao), whom I greatly admire.  We were collaborated on the design of a decision-making framework. It is under revision review in **Expert Systems with Application**, a top journal in the field.
 
 
-Besides study and research, I also like music, traveling, hiking, painting, etc. My friends think I am a “happy maker”. Anyway, if you wish to communicate with me, please feel free to email me! (<u>tianyecs@mail.ustc.edu.cn</u>, <u>yetiancs@gmail.com</u>) I'm happy to discuss interesting things with everyone!
+Besides study and research, I also like music, traveling, hiking, painting, etc. My friends think I am a “happy maker”. Anyway, if you wish to communicate with me, please feel free to email me (<u>tianyecs@mail.ustc.edu.cn</u>, <u>yetiancs@gmail.com</u>)! I'm happy to discuss interesting things with everyone!
 
 # 🔥 News
 
