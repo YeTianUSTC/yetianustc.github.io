@@ -27,7 +27,7 @@ In my undergraduate years, I was a member of the laboratory co-led by **[Prof. Y
 
 # 🔥 News
 
-- *2023.09*: &nbsp;🎉🎉 <font color="#dd0000">I am looking for a PhD position! I am working towards becoming a qualified PhD candidate!</font><br />
+- *2023.09*: &nbsp;🎉🎉 <font color="#dd0000">I am looking for a PhD position!</font><br />
 - *2023.09*: &nbsp;🎉🎉 The **revised version** of our paper has been submitted to ***ESWA (Expert Systems with Applications) 2023***.
 - *2023.08*: &nbsp;🎉🎉 Our paper has submitted to ***Mobicom 2024***, it is under review.
 - *2023.08*: &nbsp;🎉🎉 Our two papers have submitted to ***INFOCOM 2024***, it is under review.
