@@ -20,7 +20,7 @@ redirect_from:
 
 I am currently a (last year) **graduate student** at the [School of Computer Science and Technology](http://cs.ustc.edu.cn/main.htm), [University of Science and Technology of China](https://www.ustc.edu.cn/) (I will graduate in **June 2024**), and my advisor is [**Prof. Xiang-Yang Li** (***IEEE/ACM Fellow***)](https://scholar.google.com/citations?user=JURtNb0AAAAJ&hl=en&oi=ao). I received my bachelor's degree from Northwest Agriculture and Forestry University in 2021 with Outstanding Graduate Honor (ranking 2%). I also won some of the highest student honors, e.g., Tang Lixin Scholarship (ranking 0.2%) and the 100 campus Stars of the whole university (ranking 0.5%).
 
-My current research interests mainly lie in human-computer interaction, as well as mobile and ubiquitous computing, e.g., using ubiquitous wearable sensors to design advanced HCI interfaces. Our core aim is to empower objects to go beyond existing interaction types to address our real-world needs in specific scenarios. Therefore, I'm also broadly interested in the cross-application of these innovations in other areas. Recently, we designed a lip-reading-based authentication system (**BackLip**, **IWQoS 2023**) and a gesture-interactive mobile system on a smartwatch (**Mudra**, **INFOCOM 2022**) that combines the advantages of visual and IMU signal. We also cared about some of the needs in smart health and designed a silent speech interface, which can help those with hearing loss and speech impairments to communicate by recognizing what they lip-read. It can also extend voice assistants to those with limitations. This study is under revision review by **ACM IMWUT 2023**. Some other studies are under review, e.g., **MobiCom 2024**, **INFOCOM 2024**, etc. In these studies, I'm very honored to work with some distinguished professor, especially [**Prof. Yusheng Ji** (***IEEE Fellow***)](https://scholar.google.com/citations?user=3EK_RaQAAAAJ&hl=en) (NII), **[Prof. ChenrenXu](https://scholar.google.com/citations?user=IFX5C-cAAAAJ&hl=en)** (Peking University), Assistant Prof. Haohua Du, **[Prof. Hao Zhou](https://scholar.google.com/citations?user=JMfB4CIAAAAJ&hl=en)** and **[Prof. Jiahui Hou](https://scholar.google.com/citations?user=z2gblvQAAAAJ&hl=en)** (USTC). 
+My current research interests mainly lie in human-computer interaction, as well as mobile and ubiquitous computing, e.g., using ubiquitous wearable sensors to design advanced HCI interfaces. Our core aim is to empower objects to go beyond existing interaction types to address our real-world needs in specific scenarios. Therefore, I'm also broadly interested in the cross-application of these innovations in other areas. Recently, we designed a lip-reading-based authentication system (**BackLip**, **IWQoS 2023**) and a gesture-interactive mobile system on a smartwatch (**Mudra**, **INFOCOM 2022**) that combines the advantages of visual and IMU signal. We also cared about some of the needs in smart health and designed a silent speech interface, which can help those with hearing loss and speech impairments to communicate by recognizing what they lip-read. It can also extend voice assistants to those with limitations. This study is under revision review by **ACM IMWUT 2023**. Some other studies are under review, e.g., **MobiCom 2024**, **INFOCOM 2024**, etc. In these studies, I'm very honored to work with some distinguished professor, especially [***IEEE Fellow*** **Prof. Yusheng Ji**](https://scholar.google.com/citations?user=3EK_RaQAAAAJ&hl=en) (NII), **[Prof. ChenrenXu](https://scholar.google.com/citations?user=IFX5C-cAAAAJ&hl=en)** (Peking University), Assistant Prof. Haohua Du, **[Prof. Hao Zhou](https://scholar.google.com/citations?user=JMfB4CIAAAAJ&hl=en)** and **[Prof. Jiahui Hou](https://scholar.google.com/citations?user=z2gblvQAAAAJ&hl=en)** (USTC). 
 
 In my undergraduate years, I was a member of the laboratory co-led by **[Prof. Yong Deng](https://scholar.google.com/citations?user=Zuhod6sAAAAJ&hl=en&oi=ao)** and **[Prof. Bingyi Kang](https://scholar.google.com/citations?user=VIEDOvoAAAAJ&hl=en)**. We mainly focus on human-centered computing, especially in making decisions in uncertain environments. Under their guidance, I have achieved many exciting results. They were published in the top journals in the field, including **IEEE Transactions on Fuzzy Systems**, **Applied Soft Computing**, and so on. I am very happy that these works have received a lot of attention and praise from other peers, including [the fellow of the Royal Society of Canada **Prof. Witold Pedrycz** (***Life Fellow, IEEE***)](https://scholar.google.com/citations?user=0nrcfZwAAAAJ&hl=en&oi=ao), whom I greatly admire.  We were collaborated on the design of a decision-making framework. It is under revision review in **Expert Systems with Application**, a top journal in this field.
 
@@ -39,7 +39,7 @@ In my undergraduate years, I was a member of the laboratory co-led by **[Prof. Y
   
 # 📖 Educations
 
-- *2021.09 - now*,  **GPA 3.40/4.3, M.S.** (Advisor: [***IEEE/ACM Fellow*** **Prof. Xiang-Yang Li**](https://scholar.google.com/citations?user=JURtNb0AAAAJ&hl=en&oi=ao))  School of Computer Science and Technology, University of Science and Technology of China, Anhui.  
+- *2021.09 - now*,  **GPA 3.40/4.3, M.S.** (Advisor: [**Prof. Xiang-Yang Li** (***IEEE/ACM Fellow***)](https://scholar.google.com/citations?user=JURtNb0AAAAJ&hl=en&oi=ao))  School of Computer Science and Technology, University of Science and Technology of China, Anhui.  
 - *2017.08 - 2021.06*, **GPA 3.51/4.0, B.E.**  (Advisors: **[Prof. Yong Deng](https://scholar.google.com/citations?user=Zuhod6sAAAAJ&hl=en&oi=ao)** and **[Prof. Bingyi Kang](https://scholar.google.com/citations?user=VIEDOvoAAAAJ&hl=en)**) College of Information Engineering, Northwest Agriculture and Forestry University, Shaanxi.
 
  
@@ -47,7 +47,7 @@ In my undergraduate years, I was a member of the laboratory co-led by **[Prof. Y
 
 #### Selected Scholarships
 - *2023.09*,    **Academic First-class scholarship**
-- *2022.12*,    **Huawei Scholarship**
+- *2022.12*,    **Huawei Scholarship** (**ranking 2%**)
 - *2021.10*,    **Academic First-class scholarship**
 - *2020.12*,    **Lixin Tang Scholarship** (**ranking 0.2%**)
 - *2020.10/2019.10/2018.10*,    **National Encouragement Scholarship** (**ranking 3%**)
@@ -155,7 +155,7 @@ Kaiwen Guo, Hao Zhou, **Ye Tian**, Wangqiu Zhou, Yusheng Ji, and Xiang-Yang Li.
 #### Academic Services
 
 - *2023.09-now*,  Teaching Assistant - Combinatorial Mathematics
-- *2021.09*, Volunteer - National Forum for Computer Science Department Chairs/Deans in Colleges and Universities
+- *2023.09*, Volunteer - National Forum for Computer Science Department Chairs/Deans in Colleges and Universities
 - *2023.06*,  Session Chair - IEEE/ACM IWQoS 2023  
 - *2022.08*,  Session Chair - IEEE Bigcom 2022
 - *2022.09-2023.1*,  Teaching Assistant - Combinatorial Mathematics 
