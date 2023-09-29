@@ -176,9 +176,8 @@ Kaiwen Guo, Hao Zhou, **Ye Tian**, Wangqiu Zhou, Yusheng Ji, and Xiang-Yang Li.
 #### Social Services
 
 - *2019.05*,  Voluntee - Yangling International Marathon 
-- *2018.08*,  Excellent Rural Investigation Team 
+- *2018.07-08*,  Volunteer - Rural Survey and Research Activities in Poor Areas of Northwest China
 - *2018.07*,  Summer Vacation Social Practice Activities for College Students
-- *2018.07-08*,  Volunteer - Rural Survey and Research Activities in Poor Areas of Northwest China   
 
 # 💻 Contact Me
 
