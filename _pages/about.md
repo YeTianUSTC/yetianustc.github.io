@@ -154,27 +154,31 @@ Kaiwen Guo, Hao Zhou, **Ye Tian**, Wangqiu Zhou, Yusheng Ji, and Xiang-Yang Li.
 
 #### Academic Services
 
-- *2023.06*,  Session Chair - IWQoS 2023  
-- *2022.08*,  Session Chair - Bigcom 2022
-- *2022.09-2022.12*,  Teaching Assistant - Combinatorial Mathematics 
+- *2023.09-now*,  Teaching Assistant - Combinatorial Mathematics
+- *2021.09*, Volunteer - National Forum for Computer Science Department Chairs/Deans in Colleges and Universities
+- *2023.06*,  Session Chair - IEEE/ACM IWQoS 2023  
+- *2022.08*,  Session Chair - IEEE Bigcom 2022
+- *2022.09-2023.1*,  Teaching Assistant - Combinatorial Mathematics 
 - *2021.09-Now*,  Research Assistant  
 - *2018.10-2021.06*,  Research Assistant  
 
 #### Campus Services
 
-- *2021.09-now*, Class Secretary 
+
+- *2021.09-Now*, Research Assistant  
+- *2021.09-now*, Class Secretary
 - *2021.09-now*, Graduate Student Union Member
 - *2021.04-2021.09*,  USTC Admissions Volunteer
 - *2020.12-2021.12*,  Tang Lixin Scholarship "Xinji Society" Vice President
-- *2021.09-Now*,  Research Assistant  
 - *2018.08-2021.06*,  Class teacher's Student Assistant
 - *2017.09-2021.06*,  Class Monitor
 
 #### Social Services
 
-- *2019.05*, Yangling International Marathon Voluntee  
+- *2019.05*,  Voluntee - Yangling International Marathon 
 - *2018.08*,  Excellent Rural Investigation Team 
-- *2018.07*,  Summer Vacation Social Practice Activities for College Students  
+- *2018.07*,  Summer Vacation Social Practice Activities for College Students
+- *2018.07-08*,  Volunteer - Rural Survey and Research Activities in Poor Areas of Northwest China   
 
 # 💻 Contact Me
 
