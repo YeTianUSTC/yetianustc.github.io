@@ -90,7 +90,7 @@ In my undergraduate years, I was a member of the laboratory co-led by **[Prof. Y
 </div>
 </div>
 
-- BackLip: Passphrase-Independent Lip-reading User Authentication with Backscatter Signals. IEEE/ACM 31th International Symposium on Quality of Service (IWQoS), pp. 1-10. IEEE, 2023.
+- BackLip: Passphrase-Independent Lip-reading User Authentication with Backscatter Signals. IEEE/ACM 31th International Symposium on Quality of Service (*IEEE/ACM* IWQoS), pp. 1-10. IEEE, 2023.
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">INFOCOM 2022</div><img src='images/paper2-1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -104,7 +104,7 @@ Kaiwen Guo, Hao Zhou, **Ye Tian**, Wangqiu Zhou, Yusheng Ji, and Xiang-Yang Li.
 </div>
 </div>
 
-- Mudra: A Multi-Modal Smartwatch Interactive System with Hand Gesture Recognition and User Identification. IEEE International Conference on Computer Communications （INFOCOM), pp. 100-109. IEEE, 2022.
+- Mudra: A Multi-Modal Smartwatch Interactive System with Hand Gesture Recognition and User Identification. IEEE International Conference on Computer Communications （*IEEE* INFOCOM), pp. 100-109. IEEE, 2022.
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">APSC 2021</div><img src='images/paper3-1.png' alt="sym" width="100%"></div></div>
@@ -156,8 +156,8 @@ Kaiwen Guo, Hao Zhou, **Ye Tian**, Wangqiu Zhou, Yusheng Ji, and Xiang-Yang Li.
 
 - *2023.09-now*,  Teaching Assistant - Combinatorial Mathematics
 - *2023.09*, Volunteer - National Forum for Computer Science Department Chairs/Deans in Colleges and Universities
-- *2023.06*,  Session Chair - IEEE/ACM IWQoS 2023  
-- *2022.08*,  Session Chair - IEEE Bigcom 2022
+- *2023.06*,  Session Chair - *IEEE/ACM* IWQoS 2023  
+- *2022.08*,  Session Chair - *IEEE* Bigcom 2022
 - *2022.09-2023.1*,  Teaching Assistant - Combinatorial Mathematics 
 - *2021.09-Now*,  Research Assistant  
 - *2018.10-2021.06*,  Research Assistant  
