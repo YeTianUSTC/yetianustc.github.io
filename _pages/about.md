@@ -47,21 +47,21 @@ In my undergraduate years, I was a member of the laboratory co-led by **[Prof. Y
 
 #### Selected Scholarships
 - *2023.09*,    **Academic First-class scholarship**
-- *2022.12*,    **Huawei Scholarship** (**ranking 2%**)
+- *2022.12*,    **Huawei Scholarship**, (**ranking 2%**)
 - *2021.10*,    **Academic First-class scholarship**
-- *2020.12*,    **Lixin Tang Scholarship** (**ranking 0.2%**)
-- *2020.10/2019.10/2018.10*,    **National Encouragement Scholarship** (**ranking 3%**)
+- *2020.12*,    **Lixin Tang Scholarship**, (**ranking 0.2%**)
+- *2020.10/2019.10/2018.10*,    **National Encouragement Scholarship**, (**ranking 3%**)
 - *2020.10/2019.10/2018.10*,    **First-class Scholarship**
 
 #### Selected Honors
 
 - *2022.12*,    **Outstanding Student Leader** in Graduate Student Union
 - *2021.08*,    **Outstanding Intern** During the Internship in USTC-Deqing Alpha Innovation Institute
-- *2021.06*,    **Outstanding Graduates** of the Whole  University (**ranking 2%**) 
-- *2020.12*,    One of the **100 Campus Stars/ Top Ten** Scientific **Research Stars**  (**ranking 0.5%**) 
+- *2021.06*,    **Outstanding Graduates** of the Whole  University, (**ranking 2%**) 
+- *2020.12*,    One of the **100 Campus Stars/ Top Ten** Scientific **Research Stars**, (**ranking 0.5%**) 
 - *2020.12/2019.12/2018.12*,   **Outstanding  Students** of the whole University 
 - *2020.12/2019.12/2018.12*,   **Outstanding Student Leader** of the whole University
-- *2020.12*,    **Outstanding Representative** of Innovation and Entrepreneurship in the whole University (**ranking 0.2%**) 
+- *2020.12*,    **Outstanding Representative** of Innovation and Entrepreneurship in the whole University, (**ranking 0.2%**) 
 - *2018.12*,    **Outstanding Representative** of Social Practice in the whole University
 
 #### Selected Awards
