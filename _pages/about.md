@@ -22,7 +22,7 @@ I am currently a (last year) **graduate student** at the [School of Computer Sci
 
 My current research interests mainly lie in human-computer interaction, as well as mobile and ubiquitous computing, e.g., using ubiquitous wearable sensors to design advanced HCI interfaces. Our core aim is to empower objects to go beyond existing interaction types to address our real-world needs in specific scenarios. Therefore, I'm also broadly interested in the cross-application of these innovations in other areas. Recently, we designed a lip-reading-based authentication system (**BackLip**, **IWQoS 2023**) and a gesture-interactive mobile system on a smartwatch (**Mudra**, **INFOCOM 2022**) that combines the advantages of visual and IMU signal. We also cared about some of the needs in smart health and designed a silent speech interface, which can help those with hearing loss and speech impairments to communicate by recognizing what they lip-read. It can also extend voice assistants to those with limitations. This study is under revision review by **ACM IMWUT 2023**. Some other studies are under review, e.g., **MobiCom 2024**, **INFOCOM 2024**, etc. In these studies, I'm very honored to work with some distinguished professor, especially [***IEEE Fellow*** **Prof. Yusheng Ji**](https://scholar.google.com/citations?user=3EK_RaQAAAAJ&hl=en) (NII), **[Prof. ChenrenXu](https://scholar.google.com/citations?user=IFX5C-cAAAAJ&hl=en)** (Peking University), Assistant Prof. Haohua Du, **[Prof. Hao Zhou](https://scholar.google.com/citations?user=JMfB4CIAAAAJ&hl=en)** and **[Prof. Jiahui Hou](https://scholar.google.com/citations?user=z2gblvQAAAAJ&hl=en)** (USTC). 
 
-In my undergraduate years, I was a member of the laboratory co-led by **[Prof. Yong Deng](https://scholar.google.com/citations?user=Zuhod6sAAAAJ&hl=en&oi=ao)** and **[Prof. Bingyi Kang](https://scholar.google.com/citations?user=VIEDOvoAAAAJ&hl=en)**. We mainly focus on human-centered computing, especially in making decisions in uncertain environments. Under their guidance, I have achieved many exciting results. They were published in the top journals in the field, including **IEEE Transactions on Fuzzy Systems**, **Applied Soft Computing**, and so on. I am very happy that these works have received a lot of attention and praise from other peers, including [the fellow of the Royal Society of Canada **Prof. Witold Pedrycz** (***IEEE Life Fellow***)](https://scholar.google.com/citations?user=0nrcfZwAAAAJ&hl=en&oi=ao), whom I greatly admire.  We were collaborated on the design of a decision-making framework. It is under revision review in **Expert Systems with Application**, a top journal in this field.
+In my undergraduate years, I was a member of the laboratory co-led by **[Prof. Yong Deng](https://scholar.google.com/citations?user=Zuhod6sAAAAJ&hl=en&oi=ao)** and **[Prof. Bingyi Kang](https://scholar.google.com/citations?user=VIEDOvoAAAAJ&hl=en)**. We mainly focus on human-centered computing, especially in making decisions in uncertain environments. Under their guidance, I have achieved many exciting results. They were published in the top journals in the field, including **IEEE Transactions on Fuzzy Systems**, **Applied Soft Computing**, and so on. I am very happy that these works have received a lot of attention and praise from other peers, including [the fellow of the Royal Society of Canada **Prof. Witold Pedrycz** (***Life Fellow, IEEE***)](https://scholar.google.com/citations?user=0nrcfZwAAAAJ&hl=en&oi=ao), whom I greatly admire.  We were collaborated on the design of a decision-making framework. It is under revision review in **Expert Systems with Application**, a top journal in this field.
 
 
 # 🔥 News
@@ -46,22 +46,22 @@ In my undergraduate years, I was a member of the laboratory co-led by **[Prof. Y
 # 🏆 Honors and Awards
 
 #### Selected Scholarships
-
+- *2023.09*,    **Academic First-class scholarship**
 - *2022.12*,    **Huawei Scholarship**
 - *2021.10*,    **Academic First-class scholarship**
-- *2020.12*,    **Lixin Tang Scholarship**  (**Top 1%**)
-- *2020.10/2019.10/2018.10*,    **National Encouragement Scholarship**
-- *2020.10/2019.10/2018.10*,    **Department First-class Scholarship**
+- *2020.12*,    **Lixin Tang Scholarship** (**ranking 0.2%**)
+- *2020.10/2019.10/2018.10*,    **National Encouragement Scholarship** (**ranking 3%**)
+- *2020.10/2019.10/2018.10*,    **First-class Scholarship**
 
 #### Selected Honors
 
 - *2022.12*,    **Outstanding Student Leader** in Graduate Student Union
 - *2021.08*,    **Outstanding Intern** During the Internship in USTC-Deqing Alpha Innovation Institute
-- *2021.06*,    **Outstanding Graduates** of the Whole  University  
-- *2020.12*,    One of the **100 Campus Stars/ Top Ten** Scientific **Research Stars**  
+- *2021.06*,    **Outstanding Graduates** of the Whole  University (**ranking 2%**) 
+- *2020.12*,    One of the **100 Campus Stars/ Top Ten** Scientific **Research Stars**  (**ranking 0.5%**) 
 - *2020.12/2019.12/2018.12*,   **Outstanding  Students** of the whole University 
 - *2020.12/2019.12/2018.12*,   **Outstanding Student Leader** of the whole University
-- *2020.12*,    **Outstanding Representative** of Innovation and Entrepreneurship in the whole University
+- *2020.12*,    **Outstanding Representative** of Innovation and Entrepreneurship in the whole University (**ranking 0.2%**) 
 - *2018.12*,    **Outstanding Representative** of Social Practice in the whole University
 
 #### Selected Awards
