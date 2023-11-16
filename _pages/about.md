@@ -28,7 +28,7 @@ In my undergraduate years, I was a member of the laboratory co-led by **[Prof. Y
 # 🔥 News
 
 - *2023.11*: &nbsp;🎉🎉 <font color="#dd0000">I am looking for a PhD position!</font><br />
-- *2023.10*: &nbsp;🎉🎉 <font color="#dd0000"> I won the National Scholarship!</font><br />
+- *2023.10*: &nbsp;🎉🎉 I won the National Scholarship!
 - *2023.08*: &nbsp;🎉🎉 Our paper has submitted to ***Mobicom 2024***, it is under review.
 - *2023.08*: &nbsp;🎉🎉 Our paper has submitted to ***INFOCOM 2024***, it is under review.
 - *2023.08*: &nbsp;🎉🎉 Our paper has been submitted to ***ACM IMWUT 2023***.
