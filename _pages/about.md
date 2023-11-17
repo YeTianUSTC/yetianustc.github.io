@@ -38,8 +38,8 @@ In my undergraduate years, I was a member of the laboratory co-led by **[Prof. Y
   
 # 📖 Educations
 
-- *2021.09 - now*,  **GPA 3.40/4.3, M.S.** (Advisor: [**Prof. Xiang-Yang Li** (***IEEE/ACM Fellow***)](https://scholar.google.com/citations?user=JURtNb0AAAAJ&hl=en&oi=ao))  School of Computer Science and Technology, University of Science and Technology of China, Anhui.  
-- *2017.08 - 2021.06*, **GPA 3.51/4.0, B.E.**  (Advisors: **[Prof. Yong Deng](https://scholar.google.com/citations?user=Zuhod6sAAAAJ&hl=en&oi=ao)** and **[Prof. Bingyi Kang](https://scholar.google.com/citations?user=VIEDOvoAAAAJ&hl=en)**) College of Information Engineering, Northwest Agriculture and Forestry University, Shaanxi.
+- *2021.09 - now*,  **M.S.** (Supervisor: [**Prof. Xiang-Yang Li** (***IEEE/ACM Fellow***)](https://scholar.google.com/citations?user=JURtNb0AAAAJ&hl=en&oi=ao))  School of Computer Science and Technology, University of Science and Technology of China, Anhui.  
+- *2017.08 - 2021.06*, **B.E.**  (Supervisor: **[Prof. Yong Deng](https://scholar.google.com/citations?user=Zuhod6sAAAAJ&hl=en&oi=ao)** and **[Prof. Bingyi Kang](https://scholar.google.com/citations?user=VIEDOvoAAAAJ&hl=en)**) College of Information Engineering, Northwest Agriculture and Forestry University, Shaanxi.
 
  
 # 🏆 Honors and Awards
