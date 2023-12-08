@@ -32,7 +32,7 @@ In my undergraduate years, I was a member of the Intelligent Information Process
 - *2023.08*: &nbsp;🎉🎉 Our paper has submitted to ***Mobicom 2024***, it is under review.
 - *2023.08*: &nbsp;🎉🎉 Our paper has submitted to ***INFOCOM 2024***, it is under review.
 - *2023.08*: &nbsp;🎉🎉 Our paper has been submitted to ***ACM IMWUT 2023***.
-- *2023.06*: &nbsp;🎉🎉 I traveled to Orlando, USA to participate in ***IEEE/ACM IWQoS 2023***. I reported our research "**BackLip - IWQoS2023**", and I am very honored to be invited by TPC chairs to serve as a **session chair**.
+- *2023.06*: &nbsp;🎉🎉 I traveled to Orlando, USA to participate in ***IEEE/ACM IWQoS 2023***. I reported our research "**BackLip - IWQoS2023**" and served as a **session chair**.
 
 
   
