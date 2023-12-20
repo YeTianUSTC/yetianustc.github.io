@@ -38,7 +38,7 @@ In my undergraduate years, I was a member of the Intelligent Information Process
   
 # 📖 Educations
 
-- *2021.09 - now*,  **M.S.** (Supervisor: [**Prof. Xiang-Yang Li** (***IEEE/ACM Fellow***)](https://scholar.google.com/citations?user=JURtNb0AAAAJ&hl=en&oi=ao))  School of Computer Science and Technology, University of Science and Technology of China, Anhui.  
+- *2021.09 - at present *,  **M.S.** (Supervisor: [**Prof. Xiang-Yang Li** (***IEEE/ACM Fellow***)](https://scholar.google.com/citations?user=JURtNb0AAAAJ&hl=en&oi=ao))  School of Computer Science and Technology, University of Science and Technology of China, Anhui.  
 - *2017.08 - 2021.06*, **B.E.**  (Supervisor: **[Prof. Yong Deng](https://scholar.google.com/citations?user=Zuhod6sAAAAJ&hl=en&oi=ao)** and **[Prof. Bingyi Kang](https://scholar.google.com/citations?user=VIEDOvoAAAAJ&hl=en)**) College of Information Engineering, Northwest Agriculture and Forestry University, Shaanxi.
 
  
@@ -86,7 +86,7 @@ In my undergraduate years, I was a member of the Intelligent Information Process
 **Ye Tian**, Hao Zhou, Haohua Du, Chenren Xu, Jiahui Hou, Dong Ren, Xiang-Yang Li.
 
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- User authentication is essential for threat defense and data protection. Existed authentication systems have some known limitations, such as spoofing attacks, privacy leakage, and user-unfriendliness. In this paper, we propose BackLip, a novel anti-spoofing authentication system based on lip reading. We employ Wi-Fi backscatter-based technology to recognize users lip reading due to its various advantages, e.g, privacy protection, low power consumption, and low cost. Our system is touch-free and passphrase-independent, making it user-friendly. Extensive experiments demonstrate that BackLip has an good accuracy and can maintain stability and robustness under different experimental settings. In June of this year, I reported this research in <u>Orlando, USA</u> and I served as a **session chair**. 
+- User authentication is essential for threat defense and data protection. Existed authentication systems have some kat present n limitations, such as spoofing attacks, privacy leakage, and user-unfriendliness. In this paper, we propose BackLip, a novel anti-spoofing authentication system based on lip reading. We employ Wi-Fi backscatter-based technology to recognize users lip reading due to its various advantages, e.g, privacy protection, low power consumption, and low cost. Our system is touch-free and passphrase-independent, making it user-friendly. Extensive experiments demonstrate that BackLip has an good accuracy and can maintain stability and robustness under different experimental settings. In June of this year, I reported this research in <u>Orlando, USA</u> and I served as a **session chair**. 
 </div>
 </div>
 
@@ -154,20 +154,20 @@ Kaiwen Guo, Hao Zhou, **Ye Tian**, Wangqiu Zhou, Yusheng Ji, and Xiang-Yang Li.
 
 #### Academic Services
 
-- *2023.09-now*,  Teaching Assistant - Combinatorial Mathematics
+- *2023.09-at present *,  Teaching Assistant - Combinatorial Mathematics
 - *2023.09*, Volunteer - National Forum for Computer Science Department Chairs/Deans in Colleges and Universities
 - *2023.06*,  Session Chair - *IEEE/ACM* IWQoS 2023  
 - *2022.08*,  Session Chair - *IEEE* Bigcom 2022
 - *2022.09-2023.1*,  Teaching Assistant - Combinatorial Mathematics 
-- *2021.09-Now*,  Research Assistant  
+- *2021.09-at present *,  Research Assistant  
 - *2018.10-2021.06*,  Research Assistant  
 
 #### Campus Services
 
 
-- *2021.09-Now*, Research Assistant  
-- *2021.09-now*, Class Secretary
-- *2021.09-now*, Graduate Student Union Member
+- *2021.09-at present *, Research Assistant  
+- *2021.09-at present *, Class Secretary
+- *2021.09-at present *, Graduate Student Union Member
 - *2021.04-2021.09*,  USTC Admissions Volunteer
 - *2020.12-2021.12*,  Tang Lixin Scholarship "Xinji Society" Vice President
 - *2018.08-2021.06*,  Class teacher's Student Assistant
