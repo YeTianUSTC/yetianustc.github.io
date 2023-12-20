@@ -72,7 +72,7 @@ In my undergraduate years, I was a member of the Intelligent Information Process
 - *2019.05*,   “Internet +" College Student Competition - **School-level Gold Award** 
 - *2019.05*,   Challenge Cup Science and Technology Works of College Students - **School-level Third Prize**
 - *2018.05*,   College Students Innovation and Entrepreneurship Forum - **School-level Third Prize**
-- *2016.02*,   National Youth Science and Technology Innovation Competition - **Provincial Outstanding Creativity Award** / Top 10 **Creative Stars** in the city  
+- *2016.02*,   National Youth Science and Technology Innovation Competition - **Provincial Outstanding Creativity Award** / **Creative Stars** 
 
 # 🏆 Selected Publications
 
