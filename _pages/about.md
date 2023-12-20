@@ -38,7 +38,7 @@ In my undergraduate years, I was a member of the Intelligent Information Process
   
 # 📖 Educations
 
-- *2021.09 - at present *,  **M.S.** (Supervisor: [**Prof. Xiang-Yang Li** (***IEEE/ACM Fellow***)](https://scholar.google.com/citations?user=JURtNb0AAAAJ&hl=en&oi=ao))  School of Computer Science and Technology, University of Science and Technology of China, Anhui.  
+- *2021.09 - at present*,  **M.S.** (Supervisor: [**Prof. Xiang-Yang Li** (***IEEE/ACM Fellow***)](https://scholar.google.com/citations?user=JURtNb0AAAAJ&hl=en&oi=ao))  School of Computer Science and Technology, University of Science and Technology of China, Anhui.  
 - *2017.08 - 2021.06*, **B.E.**  (Supervisor: **[Prof. Yong Deng](https://scholar.google.com/citations?user=Zuhod6sAAAAJ&hl=en&oi=ao)** and **[Prof. Bingyi Kang](https://scholar.google.com/citations?user=VIEDOvoAAAAJ&hl=en)**) College of Information Engineering, Northwest Agriculture and Forestry University, Shaanxi.
 
  
@@ -154,20 +154,20 @@ Kaiwen Guo, Hao Zhou, **Ye Tian**, Wangqiu Zhou, Yusheng Ji, and Xiang-Yang Li.
 
 #### Academic Services
 
-- *2023.09-at present *,  Teaching Assistant - Combinatorial Mathematics
+- *2023.09-at present*,  Teaching Assistant - Combinatorial Mathematics
 - *2023.09*, Volunteer - National Forum for Computer Science Department Chairs/Deans in Colleges and Universities
 - *2023.06*,  Session Chair - *IEEE/ACM* IWQoS 2023  
 - *2022.08*,  Session Chair - *IEEE* Bigcom 2022
 - *2022.09-2023.1*,  Teaching Assistant - Combinatorial Mathematics 
-- *2021.09-at present *,  Research Assistant  
+- *2021.09-at present*,  Research Assistant  
 - *2018.10-2021.06*,  Research Assistant  
 
 #### Campus Services
 
 
-- *2021.09-at present *, Research Assistant  
-- *2021.09-at present *, Class Secretary
-- *2021.09-at present *, Graduate Student Union Member
+- *2021.09-at present*, Research Assistant  
+- *2021.09-at present*, Class Secretary
+- *2021.09-at present*, Graduate Student Union Member
 - *2021.04-2021.09*,  USTC Admissions Volunteer
 - *2020.12-2021.12*,  Tang Lixin Scholarship "Xinji Society" Vice President
 - *2018.08-2021.06*,  Class teacher's Student Assistant
